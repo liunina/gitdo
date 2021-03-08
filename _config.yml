@@ -4,13 +4,13 @@ page_title                                :                                     
 # App Info
 ios_app_id                                : 1528743458                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
 
-appstore_link                             : https://itunes.apple.com/app/id1528743458                                          # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
+appstore_link                             : https://itunes.apple.com/app/id1528743458 # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
 playstore_link                            :                                           # Enter Google Play Store URL.
-presskit_download_link                    : https://emilbaehr.com                                          # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
+presskit_download_link                    :                                           # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
-app_name                                  : GitDo                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_name                                  : GitDo                                     # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_description                           : Repository Management Tool For Gitea!
 
@@ -47,11 +47,11 @@ features                                  :
     fontawesome_icon_name                 : play-circle
 
   - title                                 : Markdown Support
-    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
+    description                           : Markdown file support preview.
     fontawesome_icon_name                 : sync
 
   - title                                 : Notifications
-    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
+    description                           : Event Notifications view.
     fontawesome_icon_name                 : adjust
   
   - title                                 : Repository commits
