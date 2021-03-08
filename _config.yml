@@ -35,40 +35,28 @@ youtube_username                          :
 features                                  :
 
   - title                                 : File and Directory Browser
-    description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
+    description                           : Documents and directories browse in branches.
     fontawesome_icon_name                 : magic
     
   - title                                 : Explore Repositories
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
+    description                           : Source code browsing and version history viewing.Switch branches in File browser.
     fontawesome_icon_name                 : mobile
 
   - title                                 : Issues Support
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
+    description                           : Issues list/Issue comments/Issue create.
     fontawesome_icon_name                 : play-circle
 
   - title                                 : Markdown Support
     description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
     fontawesome_icon_name                 : sync
 
-  - title                                 : Easy to Tweak
+  - title                                 : Notifications
     description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
     fontawesome_icon_name                 : adjust
   
-  - title                                 : Feature List
-    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
+  - title                                 : Repository commits
+    description                           : Commit message for repository.
     fontawesome_icon_name                 : star
-
-  - title                                 : Smart App Banner
-    description                           : Display a smart app banner on iOS devices.
-    fontawesome_icon_name                 : arrow-alt-circle-down
-
-  - title                                 : Social Links
-    description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : link
-
-  - title                                 : FontAwesome Support
-    description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : info-circle
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
